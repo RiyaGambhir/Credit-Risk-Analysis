@@ -36,3 +36,6 @@ To analyze loan data and identify high-risk customer segments to support better 
 
 ##  Outcome
 Improved understanding of risk factors affecting loan defaults, enabling data-driven decision-making for credit risk management.
+
+## Note 
+Due to large dataset size, preview may not be available on GitHub for 'Bank Loan Data', downloading that might help. For this as an alternate solution to it, I have uploaded the second file 'Bank Loan final data'  which contains required and cleaned data for this project. Please feel to use that data directly.
